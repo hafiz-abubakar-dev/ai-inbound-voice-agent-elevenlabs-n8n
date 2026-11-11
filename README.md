@@ -19,7 +19,7 @@ Handling inbound customer phone calls manually for product inquiries, pricing, a
 ### 2. ElevenLabs Conversational AI Voice Configuration
 *Agent personality, custom greeting, primary Urdu voice model (`Reva`), and `Eleven Realtime v1 Max` low-latency configuration:*
 
-![ElevenLabs Agent Configuration](02-elevenlabs-agent-voice-config.jpg)
+![ElevenLabs Agent Configuration](02-elevenlabs-agent-voice-config.png)
 
 ### 3. Product Knowledge Base (Voice RAG)
 *Indexed product catalog (`ai vioce agent model.txt`) enabling the voice agent to answer real-time questions about natural gemstones, rates, and custom 925 silver rings:*
